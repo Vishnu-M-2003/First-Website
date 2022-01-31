@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.267);
+    height: 90px;
+}
+.down-corousel{
+    padding-top: 100px;
+}
+.button{
+    background-color: blue;
+    height: 42px;
+    width: 100px;
+    border: solid blue;
+}
+
+.box{
+    padding: 20px;
+    position: relative;
+    margin-top: 10px;
+    
+    width: 100%;   
+    
+    margin-bottom: 80px;
+}
+.form-control-file{
+    position: relative;
+    align-self: center;
+}
+#Register{
+    padding-top: 100px;
+}
+.container{
+    background-color: rgba(156, 216, 216, 0.089);
+}
+input{
+    width: 350px;
+    height: 40px;
+}
+.form-group{
+    margin-left:20 px;
+    
+}
+#button{
+    width: 350px;
+}
+.submit{
+    color: blue;
+}
+
+
+
+
+.elon{
+    width: 100%;
+}
+
+
+
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.267);
+    height: 90px;
+}
+.img{
+    height: 50px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 23px;
+}
